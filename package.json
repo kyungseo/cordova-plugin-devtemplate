@@ -1,0 +1,21 @@
+{
+  "name": "simpleplugin",
+  "version": "0.1.0",
+  "description": "Cordova Plugin Template",
+  "cordova": {
+    "id": "cordova-plugin-devtemplate",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "template",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Kyungseo.Park@gmail.com",
+  "license": "MIT"
+}
